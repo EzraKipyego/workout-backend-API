@@ -1,4 +1,4 @@
-# Workout Tracker API
+# Workout tracker API
 
 A backend API for a workout tracking application built with Flask, SQLAlchemy, and Marshmallow. The application provides a platform for personal trainers to manage workouts.
 
@@ -18,7 +18,7 @@ A backend API for a workout tracking application built with Flask, SQLAlchemy, a
 * View a single exercise with the workouts it belongs to
 * Delete an exercise
 
-### Workout Exercises
+### Workout exercises
 
 * Add an exercise to a workout.
 
@@ -32,7 +32,7 @@ A backend API for a workout tracking application built with Flask, SQLAlchemy, a
 * Marshmallow
 * SQLite3
 
-## Running the Project Locally
+## Run the project
 
 ### Clone the repository
 
