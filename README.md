@@ -37,7 +37,7 @@ A backend API for a workout tracking application built with Flask, SQLAlchemy, a
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/EzraKipyego/workout-backend-API
 cd workout-backend-API
 ```
 
